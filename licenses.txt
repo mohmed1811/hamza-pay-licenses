@@ -12,7 +12,7 @@
 #
 # مثال / Example:
 # abc123def456789
-# 
+# f0934a9f81796fc7    # جهازي
 #
 # ملاحظة: ارفع هذا الملف على GitHub في مستودع عام أو خاص
 # Note: Upload this file to GitHub in a public or private repository
