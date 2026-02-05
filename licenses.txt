@@ -1,0 +1,27 @@
+# قائمة الأجهزة المرخصة لتطبيق حمزة باي
+# Licensed Devices for Hamza Pay App
+#
+# كل سطر يحتوي على معرف جهاز واحد (Android ID)
+# Each line contains one device ID (Android ID)
+#
+# للحصول على معرف الجهاز:
+# To get device ID:
+# 1. افتح التطبيق / Open the app
+# 2. سيظهر معرف الجهاز على الشاشة / Device ID will be displayed
+# 3. انسخ المعرف وأضفه هنا / Copy the ID and add it here
+#
+# مثال / Example:
+# abc123def456789
+# xyz789uvw012345
+#
+# ملاحظة: ارفع هذا الملف على GitHub في مستودع عام أو خاص
+# Note: Upload this file to GitHub in a public or private repository
+#
+# ثم حدّث الرابط في الكود:
+# Then update the URL in the code:
+# LicenseActivity.kt و LicenseManager.kt
+#
+# الرابط يجب أن يكون بهذا الشكل:
+# The URL should be in this format:
+# https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/licenses.txt
+
