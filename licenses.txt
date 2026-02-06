@@ -1,7 +1,7 @@
 # قائمة الأجهزة المرخصة لتطبيق حمزة باي
 # Licensed Devices for Hamza Pay App
-f0934a9f81796fc7
-dc7fcfcace58851c
+#f0934a9f81796fc7
+#dc7fcfcace58851c
 b2b1d879b2c24736
 # كل سطر يحتوي على معرف جهاز واحد (Android ID)
 # Each line contains one device ID (Android ID)
