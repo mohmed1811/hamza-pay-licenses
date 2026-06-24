@@ -1,7 +1,7 @@
 # قائمة الأجهزة المرخصة لتطبيق حمزة باي
 # Licensed Devices for Hamza Pay App
 #موبيلي
-f0934a9f81796fc
+f0934a9f81796fc7
 #المحل
 dc7fcfcace58851c
 b2b1d879b2c24736
